@@ -22,6 +22,9 @@
         <option name="visible" value="false" />
       </GlobalState>
     </option>
+    <device-configurations>
+      <entry key="file://$PROJECT_DIR$/res/layout-land/news_articles.xml" value="Portrait" />
+    </device-configurations>
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
@@ -34,10 +37,10 @@
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386644926326" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386640017172" ignored="false" />
     <file path="/strings.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386640397664" ignored="false" />
-    <file path="/MyActivity.java" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386640470386" ignored="false" />
-    <file path="/ArticleFragment.java" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386642046515" ignored="false" />
+    <file path="/MyActivity.java" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386657449283" ignored="false" />
+    <file path="/ArticleFragment.java" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386657312355" ignored="false" />
     <file path="/article_view.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386644414326" ignored="false" />
-    <file path="/news_articles.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386644609074" ignored="false" />
+    <file path="/news_articles.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386654491759" ignored="false" />
     <file path="/HeadlinesFragment.java" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386642529982" ignored="false" />
     <file path="/article_headerline.xml" changelist="664f541d-f5d4-44c8-bff5-6569f386ce27" time="1386642595239" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,8 +108,10 @@
           <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/MyActivity.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="48" selection-start="141" selection-end="157" vertical-scroll-proportion="0.0">
-                  <folding />
+                <state line="37" column="49" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -114,7 +119,7 @@
           <file leaf-file-name="ArticleFragment.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/ArticleFragment.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="12" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+                <state line="14" column="61" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -126,7 +131,7 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="20" column="42" selection-start="826" selection-end="854" vertical-scroll-proportion="0.0">
+                <state line="22" column="47" selection-start="873" selection-end="873" vertical-scroll-proportion="-11.785714">
                   <folding />
                 </state>
               </provider>
@@ -138,7 +143,7 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="20" selection-start="573" selection-end="573" vertical-scroll-proportion="0.42694497">
+                <state line="11" column="26" selection-start="402" selection-end="402" vertical-scroll-proportion="0.31309298">
                   <folding />
                 </state>
               </provider>
@@ -147,8 +152,10 @@
           <file leaf-file-name="HeadlinesFragment.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/HeadlinesFragment.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="52" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-                  <folding />
+                <state line="18" column="13" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -156,7 +163,7 @@
           <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="29" selection-start="680" selection-end="700" vertical-scroll-proportion="0.0">
+                <state line="13" column="19" selection-start="680" selection-end="700" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -181,7 +188,7 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="39" selection-start="439" selection-end="439" vertical-scroll-proportion="0.24500908">
+                <state line="11" column="30" selection-start="466" selection-end="466" vertical-scroll-proportion="0.29945552">
                   <folding />
                 </state>
               </provider>
@@ -193,7 +200,7 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="10" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+                <state line="10" column="10" selection-start="428" selection-end="428" vertical-scroll-proportion="-5.357143">
                   <folding />
                 </state>
               </provider>
@@ -225,15 +232,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/FragmentsUI/MyActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/example/FragmentsUI/ArticleFragment.java" />
         <option value="$PROJECT_DIR$/src/com/example/FragmentsUI/HeadlinesFragment.java" />
         <option value="$PROJECT_DIR$/res/layout/article_headerline.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout-large/news_articles.xml" />
-        <option value="$PROJECT_DIR$/res/layout-land/news_articles.xml" />
         <option value="$PROJECT_DIR$/res/layout/article_view.xml" />
+        <option value="$PROJECT_DIR$/res/layout-land/news_articles.xml" />
         <option value="$PROJECT_DIR$/res/layout/news_articles.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/FragmentsUI/ArticleFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/example/FragmentsUI/MyActivity.java" />
       </list>
     </option>
   </component>
@@ -291,6 +298,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentsUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentsUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentsUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout-land" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentsUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -308,7 +383,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="lirunzi" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="android2.2" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -511,7 +586,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="-8" width="1696" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -534,7 +609,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25015327" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -633,7 +708,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/HeadlinesFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="52" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -671,12 +748,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="680" selection-end="700" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/HeadlinesFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/article_headerline.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+        <state line="10" column="10" selection-start="428" selection-end="428" vertical-scroll-proportion="-5.357143">
           <folding />
         </state>
       </provider>
@@ -688,40 +781,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="141" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="680" selection-end="700" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/ArticleFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/HeadlinesFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="52" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout-land/news_articles.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="42" selection-start="826" selection-end="854" vertical-scroll-proportion="0.0">
+        <state line="22" column="47" selection-start="873" selection-end="873" vertical-scroll-proportion="-11.785714">
           <folding />
         </state>
       </provider>
@@ -731,7 +796,23 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="439" selection-end="439" vertical-scroll-proportion="0.24500908">
+        <state line="11" column="30" selection-start="466" selection-end="466" vertical-scroll-proportion="0.29945552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="49" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/FragmentsUI/ArticleFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="61" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -741,7 +822,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="573" selection-end="573" vertical-scroll-proportion="0.42694497">
+        <state line="11" column="26" selection-start="402" selection-end="402" vertical-scroll-proportion="0.31309298">
           <folding />
         </state>
       </provider>

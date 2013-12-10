@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!--动态创建 Fragment-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:id="@+id/fragment_container"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"/>
+
+
+<!-- Fragment 创建
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="horizontal"
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
 
+
+    <fragment android:name="com.example.FragmentsUI.HeadlinesFragment"
+              android:id="@+id/headlines_fragment"
+              android:layout_weight="1"
+              android:layout_width="0dp"
+              android:layout_height="match_parent"
+              android:background="#CC0000"/>
 
     <fragment android:name="com.example.FragmentsUI.ArticleFragment"
               android:id="@+id/article_fragment"
@@ -13,4 +28,4 @@
               android:layout_height="match_parent"
               android:background="#CCCCCC"/>
 
-</LinearLayout>
+</LinearLayout>-->
