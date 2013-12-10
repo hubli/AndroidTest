@@ -16,7 +16,11 @@ import android.widget.TextView;
  */
 public class TwoActivity extends ActionBarActivity {
 
+<<<<<<< HEAD
     public void onCreate(Bundle savedInstanceState) {
+=======
+    public void onCreate(Bundle savedInstanceState){
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
         super.onCreate(savedInstanceState);
 
         TextView textView = new TextView(this);
@@ -25,7 +29,11 @@ public class TwoActivity extends ActionBarActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
+<<<<<<< HEAD
     public boolean onCreateOptionsMenu(Menu menu) {
+=======
+    public boolean onCreateOptionsMenu(Menu menu){
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.actions, menu);
         return super.onCreateOptionsMenu(menu);

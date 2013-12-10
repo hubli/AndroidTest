@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
     <component name="EntryPointsManager">
         <entry_points version="2.0"/>
     </component>
@@ -8,5 +9,14 @@
                project-jdk-name="Android 4.4 Platform" project-jdk-type="Android SDK">
         <output url="file://$PROJECT_DIR$/out"/>
     </component>
+=======
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="D95A74397E5611BE903E7A7E19A22839" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android 4.4 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
 </project>
 

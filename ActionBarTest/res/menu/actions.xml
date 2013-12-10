@@ -6,10 +6,18 @@
     <item android:id="@+id/action_search"
           android:icon="@android:drawable/ic_menu_search"
           android:title="@string/action_search"
+<<<<<<< HEAD
           actionbartest:showAsAction="ifRoom|withText"/>
+=======
+          actionbartest:showAsAction="ifRoom|withText" />
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
     <!-- Settings, should always be in the overflow -->
     <item android:id="@+id/action_settings"
           android:title="@string/action_settings"
           android:icon="@android:drawable/ic_secure"
+<<<<<<< HEAD
           actionbartest:showAsAction="ifRoom|withText"/>
+=======
+          actionbartest:showAsAction="ifRoom|withText" />
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
 </menu>
