@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
@@ -43,6 +44,18 @@
     <breakpoint_rules />
     <ui_properties />
   </component>
+=======
+<<<<<<< HEAD
+    <component name="EntryPointsManager">
+        <entry_points version="2.0"/>
+    </component>
+    <component name="IdProvider" IDEtalkID="D95A74397E5611BE903E7A7E19A22839"/>
+    <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true"
+               project-jdk-name="Android 4.4 Platform" project-jdk-type="Android SDK">
+        <output url="file://$PROJECT_DIR$/out"/>
+    </component>
+=======
+>>>>>>> bb3e698853c95473229ce9412792a8c7fddaf1e6
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
@@ -60,6 +73,7 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -158,5 +172,8 @@
       <Port>5050</Port>
     </configuration>
   </component>
+=======
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
+>>>>>>> bb3e698853c95473229ce9412792a8c7fddaf1e6
 </project>
 

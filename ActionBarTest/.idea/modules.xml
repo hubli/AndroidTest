@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+    <component name="ProjectModuleManager">
+        <modules>
+            <module fileurl="file://H://ActionBarTest/ActionBarTest.iml"
+                    filepath="H://ActionBarTest/ActionBarTest.iml"/>
+            <module fileurl="file://H:/Android dev soft/android-sdk-windows/extras/android/support/v7/appcompat/appcompat.iml"
+                    filepath="H:/Android dev soft/android-sdk-windows/extras/android/support/v7/appcompat/appcompat.iml"/>
+        </modules>
+    </component>
+=======
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActionBarTest.iml" filepath="$PROJECT_DIR$/ActionBarTest.iml" />
       <module fileurl="file://D:/android/sdk/adt-bundle-windows-x86_64-20131030/sdk/extras/android/support/v7/appcompat/appcompat.iml" filepath="D:/android/sdk/adt-bundle-windows-x86_64-20131030/sdk/extras/android/support/v7/appcompat/appcompat.iml" />
     </modules>
   </component>
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
 </project>
 

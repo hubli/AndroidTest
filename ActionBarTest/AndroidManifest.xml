@@ -21,12 +21,5 @@
             <meta-data android:name="android.support.PARENT_ACTIVITY"
                        android:value=".ActionBar"/>
         </activity>
-        <activity
-                android:name=".ThreeActivity"
-                android:label="@string/app_name"></activity>
-                <!--android:parentActivityName=".TwoActivity">
-            <meta-data android:name="android.support.PARENT_ACTIVITY"
-                       android:value=".TwoActivity"/>-->
-
     </application>
 </manifest>

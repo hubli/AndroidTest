@@ -1,4 +1,14 @@
 <component name="libraryTable">
+<<<<<<< HEAD
+    <library name="libs">
+        <CLASSES>
+            <root url="jar://H:/Android dev soft/android-sdk-windows/extras/android/support/v7/appcompat/libs/android-support-v4.jar!/"/>
+            <root url="jar://H:/Android dev soft/android-sdk-windows/extras/android/support/v7/appcompat/libs/android-support-v7-appcompat.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+    </library>
+=======
   <library name="libs">
     <CLASSES>
       <root url="jar://H:/Android dev soft/android-sdk-windows/extras/android/support/v7/appcompat/libs/android-support-v4.jar!/" />
@@ -7,4 +17,5 @@
     <JAVADOC />
     <SOURCES />
   </library>
+>>>>>>> 5eafc9cb394900c90a03122f0e309ce86119ebb3
 </component>
